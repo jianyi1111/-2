@@ -1,8 +1,8 @@
 package Number1p;
-//²éÕÒÄ©Î²×ÖÄ¸ÏàÍ¬µÄ×Ö·û´®
+//æŸ¥æ‰¾æœ«å°¾å­—æ¯ç›¸åŒçš„å­—ç¬¦ä¸²
 public class ForFor {
 	public static void main(String args[]) {
-		String[] peopleArr= {"ÕÅÈı","ÀîËÄ","ÍõÎå","ÕÔÁù","ÖÜÆß","ÍõÕÜ","°×ºÆ","¼ÖÈÙ","°¢Èı","º¼ÈÙ"};
+		String[] peopleArr= {"å¼ ä¸‰","æå››","ç‹äº”","èµµå…­","å‘¨ä¸ƒ","ç‹å“²","ç™½æµ©","è´¾è£","é˜¿ä¸‰","æ­è£"};
 		for(int i=0;i<=peopleArr.length;i++) {
 			for(int j=i+1;j<peopleArr.length;j++) {
 				char lastEm=peopleArr[i].charAt(peopleArr[i].length()-1);
@@ -11,7 +11,7 @@ public class ForFor {
 					System.out.println(peopleArr[j]);
 					System.out.println(peopleArr[i]);
 				}
-			}//Ìí¼ÓÁË²âÊÔ
-		}
+			}//æ·»åŠ äº†æµ‹è¯•
+		}//è¿™ä¸ªåœ¨gitå®˜ç½‘è¿›è¡Œäº†ä¿®æ”¹
 	}
 }
