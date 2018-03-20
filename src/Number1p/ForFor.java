@@ -11,7 +11,7 @@ public class ForFor {
 					System.out.println(peopleArr[j]);
 					System.out.println(peopleArr[i]);
 				}
-			}
+			}//ÃÌº”¡À≤‚ ‘
 		}
 	}
 }
