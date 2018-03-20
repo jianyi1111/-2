@@ -12,6 +12,6 @@ public class ForFor {
 					System.out.println(peopleArr[i]);
 				}
 			}//添加了测试
-		}//这个在git官网进行了修改
+		}//这个在git官网进行了修改 
 	}//调整为正确的编码后又进行了一次官网上提交
 }
