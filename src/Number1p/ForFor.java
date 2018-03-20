@@ -10,7 +10,7 @@ public class ForFor {
 				if(peopleArr[j].endsWith(lastEnString)&&(i!=j)) {
 					System.out.println(peopleArr[j]);
 					System.out.println(peopleArr[i]);
-				}//Ìí¼Ó¼¸Ìõ×¢ÊÍ
+				}
 			}
 		}
 	}
